@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 style="color: blue" align="center">Welcome 👋</h1> 
 
-<!--
-**aguss97/aguss97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>I'm a frontend developer with some experience in React. I am constantly learning and always trying to be a better professional.</h3>
 
-Here are some ideas to get you started:
+#
+ 
+<h3 align="center">Technologies & skills</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+<br/>
+
+## 
+<h3 align="center">Github stats</h3>
+
+<div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=aguss97&count_private=true&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aguss97&theme=radical"/>
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguss97&layout=compact&theme=radical"/>
+</div>
